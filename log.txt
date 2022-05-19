@@ -1,0 +1,12 @@
+19/05/2022 07:57:55 - https://random-status-code.herokuapp.com/- oline: true
+19/05/2022 07:57:55 - https://www.alura.com.br- oline: true
+19/05/2022 07:57:56 - https://www.caelum.com.br- oline: true
+19/05/2022 07:58:01 - https://random-status-code.herokuapp.com/- oline: false
+19/05/2022 07:58:02 - https://www.alura.com.br- oline: true
+19/05/2022 07:58:02 - https://www.caelum.com.br- oline: true
+19/05/2022 08:03:10 - https://random-status-code.herokuapp.com/- oline: false
+19/05/2022 08:03:11 - https://www.alura.com.br- oline: true
+19/05/2022 08:03:12 - https://www.caelum.com.br- oline: true
+19/05/2022 08:03:17 - https://random-status-code.herokuapp.com/- oline: true
+19/05/2022 08:03:17 - https://www.alura.com.br- oline: true
+19/05/2022 08:03:18 - https://www.caelum.com.br- oline: true
